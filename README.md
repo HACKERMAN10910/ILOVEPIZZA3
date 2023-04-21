@@ -1,2 +1,2 @@
 # ILOVEPIZZA3
-Custom sursor bookmarklet
+Custom cursor bookmarklet
